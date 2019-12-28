@@ -1,2 +1,2 @@
 # GitTest
-Learn and practice Git as i am beginner
+Learn and practice Git as i am beginner from today
