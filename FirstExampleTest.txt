@@ -1,1 +1,1 @@
-my first example
+my first example of git today
